@@ -1,7 +1,5 @@
 from math import floor, ceil
 
-input = [[3,[2,[1,[7,3]]]],[6,[5,[4,[3,2]]]]]
-
 
 class Node:
     def __init__(self, node_type: int, **args):
